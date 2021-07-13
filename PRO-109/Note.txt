@@ -1,0 +1,2 @@
+99% of data lie between mean - 3sd and mean + 3sd 95% of data lie between mean -2sd and mean + 2sd 68% of data lie
+between mean - sd and mean + sd
